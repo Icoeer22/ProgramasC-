@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618531541 source:c:\users\pablo\onedrive\Área de trabalho\atividadelaco\programa1\main.cpp
+	<iostream>
+	<locale.h>
+
