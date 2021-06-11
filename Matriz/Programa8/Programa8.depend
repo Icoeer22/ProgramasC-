@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622242471 source:c:\users\pablo\onedrive\Área de trabalho\faculdade\atividadec++\matriz\programa8\main.cpp
+	<iostream>
+	<locale.h>
+	<time.h>
+
